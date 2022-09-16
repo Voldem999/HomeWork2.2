@@ -54,5 +54,6 @@ public class Main {
         System.out.println();
         harry.compareHogwarts(draco);
         draco.compareHogwarts(ron);
+        hermione.compareHogwarts(zhou);
     }
 }
